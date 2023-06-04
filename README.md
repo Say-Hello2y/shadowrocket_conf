@@ -1,0 +1,2 @@
+# shadowrocket_conf
+小火箭shadowrocket chatGPT代理配置文件
